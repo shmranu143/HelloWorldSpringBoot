@@ -27,7 +27,13 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
-	</dependencies>
+	
+   <dependency>
+     <groupId>com.github.bingoohuang</groupId>
+     <artifactId>blackcat-server</artifactId>
+     <version>0.0.9</version>
+   </dependency>
+ </dependencies>
 
 	<build>
 		<plugins>
